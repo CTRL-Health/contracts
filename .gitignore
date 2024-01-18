@@ -1,0 +1,16 @@
+/target/
+**/*.rs.bk
+Cargo.lock
+
+
+ownable/target/
+ownable/**/*.rs.bk
+ownable/Cargo.lock
+
+restrictable/target/
+restrictable/**/*.rs.bk
+restrictable/Cargo.lock
+
+users/target/
+users/**/*.rs.bk
+users/Cargo.lock
